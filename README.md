@@ -5,7 +5,7 @@
 
 - 👨‍💻 My recent proyect is here: [https://github.com/lAndrewl/SitioWebOnlyFlans](https://github.com/lAndrewl/SitioWebOnlyFlans)
 
-- 📄 Know about my experiences [1 year working as a Senior Analytical Support at Sodimac](1 year working as a Senior Analytical Support at Sodimac)
+- 📄 Know about my experiences (1 year working as a Senior Analytical Support at Sodimac)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
